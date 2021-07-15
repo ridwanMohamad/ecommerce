@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://bisnisukm.com/uploads/2013/07/toko-baju-online.jpg",
+    "title": "Nama Baju 1",
+    "description": "Ini deskripsi nama baju 1",
+    "price": "$15",
+    "loved": 0
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://pict.sindonews.net/dyn/600/pena/sindo-article/original/2020/07/10/Fathimah%202.jpg",
+    "title": "Nama Baju 2",
+    "description": "Ini deskripsi nama baju 3",
+    "price": "$10",
+    "loved": 0
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://cdn-ci-j.orami.co.id/v7/https://cdn-cas.orami.co.id/parenting/images/cerdas-memilih-bahan-baju-bayi-.width-800.jpegquality-80.jpg",
+    "title": "Nama Baju 3",
+    "description": "Ini deskripsi nama baju 3",
+    "price": "$20",
+    "loved": 0
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://img.my-best.id/press_component/images/11074a50ca99816f80f9f7c730752597.jpg",
+    "title": "Nama Baju 4",
+    "description": "Ini deskripsi nama baju 4",
+    "price": "$20",
+    "loved": 0
+  }
+]

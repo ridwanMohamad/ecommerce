@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336325595661",
+    "project_id": "ecommerce-103b2",
+    "storage_bucket": "ecommerce-103b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336325595661:android:e3c3db197cb8149ba97b44",
+        "android_client_info": {
+          "package_name": "com.mridwan.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336325595661-1r3irqd9134ruq2c0eboa6rgijp4pi94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mridwan.ecommerce",
+            "certificate_hash": "a34f7c532a89eb72a90d1048a07d35691085b8da"
+          }
+        },
+        {
+          "client_id": "336325595661-36i68k706keq51p4bhu7udo133arfn19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKCpPvyunhfCbhQAC_DKNRH6koMBbxLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336325595661-36i68k706keq51p4bhu7udo133arfn19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
